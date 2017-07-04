@@ -1,0 +1,1 @@
+<?php exit;//a:2:{i:0;a:7:{s:3:"cid";s:1:"2";s:3:"gid";s:1:"2";s:4:"name";s:5:"emlog";s:4:"date";s:10:"1496822212";s:4:"page";i:1;s:4:"mail";s:0:"";s:7:"content";s:6:"测试";}i:1;a:7:{s:3:"cid";s:1:"1";s:3:"gid";s:1:"1";s:4:"name";s:5:"emlog";s:4:"date";s:10:"1496806652";s:4:"page";i:1;s:4:"mail";s:0:"";s:7:"content";s:4:"fadf";}}

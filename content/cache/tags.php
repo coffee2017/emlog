@@ -1,0 +1,1 @@
+<?php exit;//a:1:{i:0;a:4:{s:6:"tagurl";s:28:"%E7%94%9F%E6%B4%BB+%E5%93%8E";s:7:"tagname";s:10:"生活 哎";s:8:"fontsize";d:10;s:6:"usenum";i:-1;}}
